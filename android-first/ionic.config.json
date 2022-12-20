@@ -1,0 +1,7 @@
+{
+  "name": "android-first",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
